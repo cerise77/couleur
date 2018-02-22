@@ -495,7 +495,7 @@ $(document).ready(function () {
 
 
   /*------------Mailbox----------*/
-  $('.menu-l1').on('mouseover', function () {
+  /*$('.menu-l1').on('mouseover', function () {
     $('.menu-b1').css({'display':'block',});
   });
   $('.menu-b1').on('mouseover', function () {
@@ -548,7 +548,7 @@ $(document).ready(function () {
 
   $('body').on('click', function () {
     $('.menu-top').css({'display':'none',});
-  });
+  });*/
 
 
 
